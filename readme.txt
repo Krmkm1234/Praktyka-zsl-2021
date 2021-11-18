@@ -1,5 +1,6 @@
 W tym pliku opiszę jak uruchamia się kod programu dla tego projektu. 
 Został on wykonany w oparciu o poradnik zanieszczony pod tym likiem: https://www.kaggle.com/pavansanagapati/simple-tutorial-on-object-recognition
+Pliku z obrazami nie udostępniłem w tym repozytorium, ponieważ nie jestem autorem tego zbioru. Możan go znaleźć na Kaggle, w powyższym linku.
 
 Na początku z katalogu images-dataset pobierane są obrazy które będą używane do wyuczenia programu rozpoznawania obiektów znajdujących się na nich.
 Program wypisuje ile obrazów znajduje się w pliku. Zamienia również ich rozmiar na 128x128 pixeli. Przedstawia również przykładowy obraz.
